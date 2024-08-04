@@ -4,6 +4,7 @@
   "description": "EPIC TOKEN",
   "image": "https://raw.githubusercontent.com/xyzdot-bot/hello/main/coolmonkey.png",
   "seller_fee_basis_points": 500,
+  "fee": 500,
   "properties": {
     "creators": [
       {
