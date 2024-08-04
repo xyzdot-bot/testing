@@ -3,12 +3,12 @@
   "symbol": "TTTT",
   "description": "EPIC TOKEN",
   "image": "https://raw.githubusercontent.com/xyzdot-bot/hello/main/coolmonkey.png",
-  "seller_fee_basis_points": 50,
+  "seller_fee_basis_points": 500,
   "properties": {
     "creators": [
       {
         "address": "GiH3j4pr5oXVxG6216BqPYqDZHH9Dr5cTA35LChvXeid",
-        "share": 1
+        "share": 10
       }
     ]
   }
